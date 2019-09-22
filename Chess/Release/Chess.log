@@ -1,0 +1,38 @@
+﻿  stdafx.cpp
+  Chess.cpp
+  aiPlayer.cpp
+aiPlayer.cpp(65): warning C4042: 'board': has bad storage class
+aiPlayer.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  bishop.cpp
+bishop.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+bishop.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+bishop.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  board.cpp
+  boardObject.cpp
+  king.cpp
+king.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+king.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+king.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  knight.cpp
+knight.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  move.cpp
+  pawn.cpp
+pawn.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  piece.cpp
+piece.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+piece.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  queen.cpp
+queen.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+queen.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+queen.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  rook.cpp
+rook.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+rook.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+rook.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 482 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\Semester 1\2E3 - Computer Engineering II\Chess\Release\Chess.exe
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\Semester 1\2E3 - Computer Engineering II\Chess\Release\Chess.pdb (Full PDB)

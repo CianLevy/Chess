@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="piece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="queen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="king.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bishop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="knight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pawn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="aiPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="move.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="boardObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="piece.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="queen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="king.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bishop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="knight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pawn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aiPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="move.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="boardObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\emptyWhite.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\knightBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\knightBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\knightWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\knightWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\pawnBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\pawnBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\pawnWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\pawnWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\queenBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rookBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rookBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rookWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rookWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bishopBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bishopBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bishopWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bishopWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\emptyBlack.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\queenWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\selected.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\highlighted.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\queenWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\queenBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\kingBlack1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\boardBackground.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\kingWhite2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\kingBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\kingWhite1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\player2Wins.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\player1Wins.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\blackCheck.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\whiteCheck.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\aiMove.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Chess.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

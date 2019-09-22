@@ -1,0 +1,14 @@
+﻿  piece.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(238): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(275): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(276): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  board.cpp
+  Chess.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\2E3 - Computer Engineering II\Chess\Debug\Chess.exe
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\2E3 - Computer Engineering II\Chess\Debug\Chess.pdb (Partial PDB)

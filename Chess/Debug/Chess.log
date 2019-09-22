@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  rook.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\rook.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\rook.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\rook.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  queen.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\queen.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\queen.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\queen.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  piece.cpp
+  pawn.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\pawn.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  move.cpp
+  knight.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\knight.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  king.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\king.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\king.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\king.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  boardObject.cpp
+  board.cpp
+  bishop.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\bishop.cpp(11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\bishop.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\bishop.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  aiPlayer.cpp
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\aiplayer.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  Chess.cpp
+  Generating Code...
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\board.cpp(224): warning C4715: 'board::kingThreatened': not all control paths return a value
+c:\users\cianl\onedrive\year 2\2e3 - computer engineering ii\chess\chess\piece.cpp(214): warning C4715: 'piece::kingThreatened': not all control paths return a value
+  LINK : C:\Users\cianl\OneDrive\Year 2\2E3 - Computer Engineering II\Chess\Debug\Chess.exe not found or not built by the last incremental link; performing full link
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\2E3 - Computer Engineering II\Chess\Debug\Chess.exe
+  Chess.vcxproj -> C:\Users\cianl\OneDrive\Year 2\2E3 - Computer Engineering II\Chess\Debug\Chess.pdb (Partial PDB)
